@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CampusAlertSystem" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/admin_primary</item>
+        <item name="colorPrimaryDark">@color/admin_primary</item>
+        <item name="colorAccent">@color/security_alert</item>
+        <item name="android:statusBarColor">@color/admin_primary</item>
+        <item name="android:windowBackground">@color/normal_bg</item>
+    </style>
+</resources>

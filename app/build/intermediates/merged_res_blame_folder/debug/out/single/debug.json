@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-merged_res-31:\\drawable_ic_warning.xml.flat",
+        "source": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-main-33:\\drawable\\ic_warning.xml"
+    },
+    {
+        "merged": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-merged_res-31:\\drawable_ic_medical.xml.flat",
+        "source": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-main-33:\\drawable\\ic_medical.xml"
+    },
+    {
+        "merged": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-merged_res-31:\\drawable_ic_security.xml.flat",
+        "source": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-main-33:\\drawable\\ic_security.xml"
+    },
+    {
+        "merged": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-merged_res-31:\\drawable_bg_button_security.xml.flat",
+        "source": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-main-33:\\drawable\\bg_button_security.xml"
+    },
+    {
+        "merged": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-merged_res-31:\\drawable_bg_button_medical.xml.flat",
+        "source": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-main-33:\\drawable\\bg_button_medical.xml"
+    },
+    {
+        "merged": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-merged_res-31:\\drawable_bg_button_main.xml.flat",
+        "source": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-main-33:\\drawable\\bg_button_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-merged_res-31:\\drawable_bg_button_fire.xml.flat",
+        "source": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-main-33:\\drawable\\bg_button_fire.xml"
+    },
+    {
+        "merged": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-merged_res-31:\\layout_activity_student_panel.xml.flat",
+        "source": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-main-33:\\layout\\activity_student_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-merged_res-31:\\drawable_bg_dismiss_button.xml.flat",
+        "source": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-main-33:\\drawable\\bg_dismiss_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-merged_res-31:\\drawable_ic_fire.xml.flat",
+        "source": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-main-33:\\drawable\\ic_fire.xml"
+    },
+    {
+        "merged": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-merged_res-31:\\layout_activity_admin_panel.xml.flat",
+        "source": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-main-33:\\layout\\activity_admin_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-merged_res-31:\\drawable_ic_shield_check.xml.flat",
+        "source": "C:\\Users\\rijua\\.gradle\\daemon\\8.4\\com.campus.alertsystem.app-main-33:\\drawable\\ic_shield_check.xml"
+    },
+    {
+        "merged": "com.campus.alertsystem.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.campus.alertsystem.app-main-33:/layout/activity_main.xml"
+    }
+]

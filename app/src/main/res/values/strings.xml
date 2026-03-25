@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CampusSafe</string>
+
+    <!-- Main Screen -->
+    <string name="admin_panel">ADMIN CONSOLE</string>
+    <string name="student_panel">STUDENT DASHBOARD</string>
+    <string name="select_panel">Select your interface to continue</string>
+    <string name="campus_emergency_alert">Campus Safety &amp; Emergency System</string>
+    <string name="emergency_contacts">Emergency Contacts</string>
+    <string name="safety_resources">Safety Resources</string>
+    <string name="call_security">Call: 0480-2730702</string>
+    <string name="call_medical">Email: emer@gmail.com</string>
+    <string name="emergency_phone">0480-2730702</string>
+    <string name="emergency_email">emer@gmail.com</string>
+
+    <!-- Admin Panel -->
+    <string name="admin_title">Control Center</string>
+    <string name="fire_alert">FIRE ALERT</string>
+    <string name="medical_alert">MEDICAL ALERT</string>
+    <string name="security_alert">SECURITY ALERT</string>
+    <string name="alert_dispatched">%s active since %s</string>
+    <string name="admin_desc">Emergency Dispatch Control</string>
+    <string name="location_hint">Enter campus location (e.g. Block A, Library)</string>
+    <string name="broadcast_desc">Select an alert type and location to notify all campus devices immediately.</string>
+
+    <!-- Student Panel -->
+    <string name="all_clear">System Secure</string>
+    <string name="no_active_alerts">No active emergencies at this time.</string>
+    <string name="last_alert">Last incident: %s at %s</string>
+    <string name="dismiss">ACKNOWLEDGE &amp; DISMISS</string>
+    <string name="alert_timestamp">Time Issued: %s</string>
+    <string name="student_desc">Real-time Emergency Monitoring</string>
+    <string name="location_label">Location: %s</string>
+    <string name="are_you_safe">Are you safe?</string>
+    <string name="i_am_safe">I AM SAFE</string>
+    <string name="i_need_help">I NEED HELP</string>
+
+    <!-- Alert Type Labels -->
+    <string name="fire_alert_label">FIRE EMERGENCY</string>
+    <string name="medical_alert_label">MEDICAL EMERGENCY</string>
+    <string name="security_alert_label">SECURITY LOCKDOWN</string>
+
+    <!-- Safety Instructions -->
+    <string name="fire_instructions">FIRE SAFETY:\n\n• EVACUATE immediately via nearest exit.\n• DO NOT use elevators.\n• Assemble at the designated safe zone.\n• Call 911 if safe to do so.</string>
+    <string name="medical_instructions">MEDICAL AID:\n\n• DO NOT move the victim unless necessary.\n• Provide basic first aid if trained.\n• Guide emergency responders to location.\n• Use AED if available.</string>
+    <string name="security_instructions">LOCKDOWN:\n\n• RUN: If safe, evacuate the area.\n• HIDE: Lock doors, turn off lights, stay silent.\n• FIGHT: Only as a last resort for survival.</string>
+
+    <!-- Notification -->
+    <string name="alert_channel_name">Emergency Alerts</string>
+    <string name="alert_channel_description">Critical notifications for campus safety.</string>
+    <string name="notification_title">⚠️ CRITICAL: %s</string>
+    <string name="notification_text">Campus emergency in progress. Open app for instructions.</string>
+</resources>
