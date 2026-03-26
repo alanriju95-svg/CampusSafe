@@ -1,8 +1,8 @@
-\### \*\*🚨 CampusSafe – Campus Safety \& Emergency System\*\*
+### **🚨 CampusSafe – Campus Safety & Emergency System**
 
 
 
-\### \*\*📌 Overview\*\*
+### **📌 Overview**
 
 
 
@@ -10,61 +10,61 @@ CampusSafe is a real-time emergency communication system designed to improve saf
 
 
 
-\### \*\*🎯 Features\*\*
+### **🎯 Features**
 
-🚨 \*\*Real-Time Emergency Alerts\*\*
+🚨 **Real-Time Emergency Alerts**
 
-📍 \*\*Location-Based Alert Input\*\*
+📍 **Location-Based Alert Input**
 
-🔴 \*\*Full-Screen Alert with Animations\*\*
+🔴 **Full-Screen Alert with Animations**
 
-📢 \*\*Safety Instructions for Each Alert Type\*\*
+📢 **Safety Instructions for Each Alert Type**
 
-📳 \*\*Vibration \& Alarm Notifications\*\*
+📳 **Vibration & Alarm Notifications**
 
-✅ \*\*Student Status Reporting (Safe / Need Help)\*\*
+✅ **Student Status Reporting (Safe / Need Help)**
 
-📞 \*\*Quick Emergency Call Feature\*\*
+📞 **Quick Emergency Call Feature**
 
-📧 \*\*Emergency Email Support\*\*
+📧 **Emergency Email Support**
 
 
 
-\### \*\*🏗️ System Architecture\*\*
+### **🏗️ System Architecture**
 
 
 
 The system follows a centralized architecture:
 
-\- \*\*AlertManager (Singleton):\*\* Stores alert data (type, location, timestamp)
+- **AlertManager (Singleton):** Stores alert data (type, location, timestamp)
 
-\- \*\*Foreground Service:\*\* Runs in background and broadcasts alerts
+- **Foreground Service:** Runs in background and broadcasts alerts
 
-\- \*\*Broadcast System:\*\* Sends real-time updates to all users
+- **Broadcast System:** Sends real-time updates to all users
 
-\- \*\*Student UI:\*\* Receives and displays alerts
-
-
-
-\### \*\*🧠 Core Components\*\*
+- **Student UI:** Receives and displays alerts
 
 
 
-\- AlertManager.kt – Central data controller
-
-\- AlertForegroundService.kt – Background service for alert monitoring
-
-\- AdminPanelActivity.kt – Admin interface for triggering alerts
-
-\- StudentPanelActivity.kt – Student interface for receiving alerts
-
-\- MainActivity.kt – Entry point with navigation and emergency actions
-
-\- AlertType.kt – Enum defining alert types and properties
+### **🧠 Core Components**
 
 
 
-\### \*\*🔄 Workflow\*\*
+- AlertManager.kt – Central data controller
+
+- AlertForegroundService.kt – Background service for alert monitoring
+
+- AdminPanelActivity.kt – Admin interface for triggering alerts
+
+- StudentPanelActivity.kt – Student interface for receiving alerts
+
+- MainActivity.kt – Entry point with navigation and emergency actions
+
+- AlertType.kt – Enum defining alert types and properties
+
+
+
+### **🔄 Workflow**
 
 
 
@@ -76,13 +76,13 @@ The system follows a centralized architecture:
 
 > 4. Broadcast is sent to all users
 
-> 5. Students receive alert with sound \& animation
+> 5. Students receive alert with sound & animation
 
 > 6. Students respond with their status
 
 
 
-\### \*\*🎬 Animations \& 🔗 Intents\*\*
+### **🎬 Animations & 🔗 Intents**
 
 
 
@@ -90,23 +90,23 @@ The app uses animations like blinking effects, color transitions, and scaling to
 
 
 
-\### \*\*⚙️ Technologies Used\*\*
+### **⚙️ Technologies Used**
 
 
 
-\- > Kotlin
+- > Kotlin
 
-\- > Android SDK
+- > Android SDK
 
-\- > Material Design 3
+- > Material Design 3
 
-\- > Foreground Services
+- > Foreground Services
 
-\- > Broadcast Receivers
+- > Broadcast Receivers
 
 
 
-\### \*\*⚠️ Challenges \& 🚀 Future Scope\*\*
+### **⚠️ Challenges & 🚀 Future Scope**
 
 
 
@@ -116,7 +116,7 @@ The system faces challenges such as maintaining real-time performance, ensuring 
 
 
 
-\### \*\*📦 Installation\*\*
+### **📦 Installation**
 
 git clone https://github.com/alanriju95-svg/CampusSafe.git
 
@@ -126,7 +126,7 @@ Open the project in Android Studio and run it on an emulator or device.
 
 
 
-\### \*\*🤝 Contribution\*\*
+### **🤝 Contribution**
 
 
 
@@ -134,7 +134,7 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 
 
-\### \*\*📄 License\*\*
+### **📄 License**
 
 
 
@@ -142,11 +142,11 @@ This project is for educational purposes.
 
 
 
-\### \*\*👨‍💻 Author\*\*
+### **👨‍💻 Author**
 
 
 
-> ### \*\*Your Name\*\*
+> ### **Your Name**
 
 
 
@@ -154,7 +154,7 @@ GitHub: https://github.com/alanriju95-svg
 
 
 
-\### \*\*⭐ Support\*\*
+### **⭐ Support**
 
 
 
