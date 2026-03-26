@@ -10,7 +10,9 @@ CampusSafe is a real-time emergency communication system designed to improve saf
 
 
 
+
 ### **🎯 Features**
+
 
 🚨 **Real-Time Emergency Alerts**
 
@@ -30,9 +32,8 @@ CampusSafe is a real-time emergency communication system designed to improve saf
 
 
 
+
 ### **🏗️ System Architecture**
-
-
 
 The system follows a centralized architecture:
 
@@ -43,6 +44,7 @@ The system follows a centralized architecture:
 - **Broadcast System:** Sends real-time updates to all users
 
 - **Student UI:** Receives and displays alerts
+
 
 
 
@@ -64,6 +66,7 @@ The system follows a centralized architecture:
 
 
 
+
 ### **🔄 Workflow**
 
 
@@ -82,11 +85,13 @@ The system follows a centralized architecture:
 
 
 
+
 ### **🎬 Animations & 🔗 Intents**
 
 
 
 The app uses animations like blinking effects, color transitions, and scaling to grab user attention during emergencies. Intents are used for navigation between screens, making emergency calls, sending emails, and broadcasting alerts across the system.
+
 
 
 
@@ -106,6 +111,7 @@ The app uses animations like blinking effects, color transitions, and scaling to
 
 
 
+
 ### **⚠️ Challenges & 🚀 Future Scope**
 
 
@@ -116,11 +122,10 @@ The system faces challenges such as maintaining real-time performance, ensuring 
 
 
 
+
 ### **📦 Installation**
 
 git clone https://github.com/alanriju95-svg/CampusSafe.git
-
-
 
 Open the project in Android Studio and run it on an emulator or device.
 
@@ -129,13 +134,12 @@ Open the project in Android Studio and run it on an emulator or device.
 ### **🤝 Contribution**
 
 
-
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
 
 
-### **📄 License**
 
+### **📄 License**
 
 
 This project is for educational purposes.
@@ -145,17 +149,14 @@ This project is for educational purposes.
 ### **👨‍💻 Author**
 
 
-
 > ### **Your Name**
-
-
 
 GitHub: https://github.com/alanriju95-svg
 
 
 
-### **⭐ Support**
 
+### **⭐ Support**
 
 
 If you like this project, give it a ⭐ on GitHub!
